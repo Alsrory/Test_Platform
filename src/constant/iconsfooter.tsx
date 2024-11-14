@@ -8,12 +8,12 @@ interface icons{
     // icons:
 }
 const icon=[
-    <X  className="icon-footer"></X>,
-    <Linkedin className="icon-footer"></Linkedin>,
-    <Youtube  className="icon-footer" />,
-    <Facebook className="icon-footer"></Facebook>,
-    <Mail  className="icon-footer"/>,
-    <Github className="icon-footer"></Github>
+    <X  key={1} className="icon-footer"></X>,
+    <Linkedin key={1} className="icon-footer"></Linkedin>,
+    <Youtube key={1} className="icon-footer" />,
+    <Facebook key={1}  className="icon-footer"></Facebook>,
+    <Mail  key={1} className="icon-footer"/>,
+    <Github key={1} className="icon-footer"></Github>
 ];
 // arrray of support company
 export const showfooterCol:footerColumn[]=[
