@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export" 
+    "postbuild": "next build && next export" 
   },
   "dependencies": {
     "lucide-react": "^0.407.0",
