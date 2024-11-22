@@ -22,7 +22,7 @@ function Mobilenav(){
                 {/* {navlinks.map((link,index)=>
                <Link href={'/'} 
              key={index}
-              className="py-1 transition-all rounded-md hover:bg-slate-600 hover:text-sky-400" onClick={toggleMenu}> {link }</Link>
+              className="py1 transition-all rounded-md hover:bg-slate-600 hover:text-sky-400" onClick={toggleMenu}> {link }</Link>
                 )
             } */}
             {navLinks.map((link,index)=>(
