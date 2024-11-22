@@ -6,6 +6,6 @@ interface x extends links{}
   export const Navcard:FC<x>=({linkName,linkUrl})=>{
     return(
       <>
-      <Link href={linkUrl} className=" text-sm font-semibold tracking-wide text-slate-200">{linkName}</Link>
+      <Link href={linkUrl} className=" text-sm font-semibold tracking-wide a text-slate-200">{linkName}</Link>
       </> )
     }
