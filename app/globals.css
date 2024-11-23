@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* section{
+     padding: 3rem 0; 
+}
+@media (min-width:640px){
+    section{
+        padding: 3rem 0;
+    }
+}
+@media  (min-width:768px){
+    section{
+        padding: 5rem 0;
+    }
+}
+@media screen {
+    section{
+        padding: 5rem 0;
+    }
+} */
+section{
+    @apply py-10 md:py-12 lg:py-12
+}
+.btn{
+    @apply flex justify-center items-center gap-2 capitalize text-white py-2 px-6 rounded-md
+     transition-all shadow-lg whitespace-nowrap
+}
+.btn-primary{
+    @apply bg-sky-600 hover:bg-sky-500 
+}
+.btn-secandery{
+    @apply bg-slate-800 hover:bg-slate-700
+}
+.btn-outline{
+    @apply border  border-slate-600 hover:bg-slate-800
+}
+.icon-footer{
+    @apply  text-gray-300/90 w-5 h-4  md:w-6 md:h-5 lg:w-6 lg:h-6 hover:text-sky-300 hover:w-8 hover:bg-transparent cursor-pointer 
+}
