@@ -30,7 +30,7 @@ export default function Home() {
                 <ArrowRightCircle className="inline ml-1 w-5 h-5"></ArrowRightCircle>
               </p>
               <Heading text="Hello every one in our platfrom in the world" />
-              <p className=" max-w-[46rem] leading-8 text-base md:text-lg md:leading-9">
+              <p className=" max-w-[47rem] leading-8 text-base md:text-lg md:leading-9">
                 Hello every one in our platfrom in the world /Hello every one in
                 our platfrom in the world Hello every one in our platfrom in the
                 world
