@@ -3,7 +3,7 @@ import { priceingData } from "./imageInterface";
 const dataPricing:priceingData[]=[
     {
         title:"feerlancer",
-        describtion:"the Essential to provide your best work for your client",
+        describtion:"It's essential to deliver your best work for your client.",
         monthlyPrice: 30,
         annuallyPrice:144, 
         feature:[
@@ -16,8 +16,8 @@ const dataPricing:priceingData[]=[
         postion:"left"
     },
     {
-        title:"feerlancer",
-        describtion:"the Essential to provide your best work for your client",
+        title:"Launch Your Presence with Ease",
+        describtion:"you can effortlessly launch your website or application quickly and simply, even if you're not a tech expert",
         monthlyPrice: 30,
         annuallyPrice:250, 
         feature:[
@@ -29,8 +29,8 @@ const dataPricing:priceingData[]=[
       
     },
     {
-        title:"feerlancer",
-        describtion:"the Essential to provide your best work for your client",
+        title:"Complete Control at Your Fingertips",
+        describtion:"We provide you with an easy-to-use control panel that gives you full command over your hosting and settings",
         monthlyPrice: 30,
         annuallyPrice:434, 
         feature:[

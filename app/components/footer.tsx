@@ -9,7 +9,7 @@ function Footer(){
         <div className="grid  grid-cols-1 lg:grid-cols-2 md:px-4 my-16  gap-4 md:gap-8 justify-between">
             <div className=" flex flex-col items-start md:items-center  lg:items-start space-y-3 px-6">
             <Logo/>
-            <p className="text-base text-gray-300 capitalize tracking-tight"> the madrin website served many pepole on the plant go to injoy with our website online</p>
+            <p className="text-base text-gray-300 capitalize tracking-tight">Join the many who have used the Madrin website to their benefit. Explore and enjoy our online platform!</p>
               <Icons></Icons>
             </div>
             <div className=" grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mx-20  gap-x-20 md:mx-2 md:gap-x-10 md:px-6 lg:px-2 ">
